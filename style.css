@@ -32,7 +32,7 @@ em strong {
 }
 
 .itens {
-	font-size: 59px;
+	font-size: 20px;
 	font-style: italic
 }
 
@@ -51,3 +51,5 @@ ul {
 .imagembeneficios {
 	width: %;
 }
+
+#inicio {font-size: 15px;}
