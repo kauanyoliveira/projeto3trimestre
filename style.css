@@ -52,8 +52,6 @@ ul {
 	width: %;
 }
 
-#inicio {font-size: 20px;}
-
-#inicio{
-	font-style: italic;
+#inicio {font-size: 20px;
+	font-style: italic;}
 }
