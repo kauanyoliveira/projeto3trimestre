@@ -54,4 +54,6 @@ ul {
 
 #inicio {font-size: 20px;}
 
-{em}
+#inicio{
+	font-style: italic;
+}
