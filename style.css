@@ -38,7 +38,7 @@ em strong {
 }
 
 .beneficios {
-	background: #d8aeae;
+	background: rgb(236, 198, 224);
 	padding: 50px;
 }
 
@@ -59,4 +59,5 @@ color: #140505;}
 
 #ultimoparagrafo{
 	font-size: 25px;
+
 }
