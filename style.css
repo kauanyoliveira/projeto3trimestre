@@ -25,7 +25,7 @@ p {
 }
 
 #missao {
-	font-size: 20px
+	font-size: 30px
 }
 
 em strong {
@@ -33,7 +33,7 @@ em strong {
 }
 
 .itens {
-	font-size: 40px;
+	font-size: 30px;
 	font-style: italic
 }
 
@@ -53,7 +53,7 @@ ul {
 	width: 100%;
 }
 
-#inicio {font-size: 20px;
+#inicio {font-size: 30px;
 	font-style: italic;
 color: #140505;}
 }
