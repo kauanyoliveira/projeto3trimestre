@@ -1,5 +1,5 @@
 body {
-	background-color: rgb(236, 180, 229);
+	background-color: rgb(236, 199, 231);
 	
 }
 
@@ -8,7 +8,7 @@ body {
 }
 
 .principal{
-	background: hsl(320, 69%, 85%);
+	background: hsl(319, 40%, 72%);
 	padding: 30px;
 }
 
@@ -38,7 +38,7 @@ em strong {
 }
 
 .beneficios {
-	background: rgb(255, 207, 240);
+	background: rgb(224, 162, 205);
 	padding: 50px;
 }
 
